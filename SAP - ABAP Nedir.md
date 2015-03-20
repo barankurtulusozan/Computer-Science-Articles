@@ -1,5 +1,5 @@
-SAP
-SAP her bilenin anlattığı hali ile 1970 li yıllarda IBM den ayrılan 5 kişinin oluşturduğu bir alman şirketi.
+#SAP
+Her bilenin anlattığı hali ile 1970 li yıllarda IBM den ayrılan 5 kişinin oluşturduğu bir alman şirketi.
 Yani temelde SAP bir yazılım şirketi.İlk olarak şirketlerin finans bölümünün bilgisayar ortamına dökülmesi 
 üzerine bir çalışma yapmışlar.Daha sonrasında muhabsebe içeren bir çözüm sunmuşlar.Başlangıçta yazılım üzerine 
 daha çok müşteri merkezli çözümler üretmişler.1973 yılında ilk yazılımlarını (RF) tamamladılar ve bu yazılımı 
@@ -11,7 +11,7 @@ açmaya başladılar.CEBIT bilişim fuarında ilk tanıtımlarını yaptılar ve
 Günümüzde ise SAP dünya çapında bir şirket aslında bundan ziyade bir yazılım bütününün marka ismi.
 
 
-Nedir bu SAP?
+* Nedir bu SAP?
 Tarihceden sonra gerçek bir tanımla yaklaşmak istiyorum.Bana göre SAP nin en güzel tanımı : 
 Bir şirketin herhangi bir bölümünün veya herhangi bir sürecinin bilgisayar ortamına dökülmiş hali.
 Bir örnekle somutlaştırmaya çalışırsak; bir gıda firmanız olduğunu düşünün.Bir çok ürün üretiyorsunuz,
@@ -27,30 +27,30 @@ modeller olsada her şirket için özel olarak ihtiyac ve istekler doğrultusund
 oluşturulmakta.Sonuç olarak aslında parça birleştirilmesi yapılmakta.Şimdi kısaca bazı modüllere bir göz atıp bilgim 
 olan modüllerin tanımını yapalım.
 
-PP (Production Planning) : Üretim planlama modülü. Fabrikalardaki üretim programlarının  SAP sistemine uyarlamasından
+> * PP (Production Planning) : Üretim planlama modülü. Fabrikalardaki üretim programlarının  SAP sistemine uyarlamasından
 sorumludur. İşçilik,malzeme,üretim planları gibi tüm aktivitelerin
 SAP sistemine aktarılması bu modülün sorumluluğundadır.
-MM (Materials Management): Malzeme yönetim modülü. Her türlü malzeme tertip ve düzeni dahil olmak üzere satın alma gibi 
+> * MM (Materials Management): Malzeme yönetim modülü. Her türlü malzeme tertip ve düzeni dahil olmak üzere satın alma gibi 
 şirket için oldukça önemli bir görevi üstlenmektedir.
-SD (Sales and Distribution): Satış ve dağıtım modülü.Sipariş,teslimat,faturalandırma ve ödeme almaya
+> * SD (Sales and Distribution): Satış ve dağıtım modülü.Sipariş,teslimat,faturalandırma ve ödeme almaya
 kadar tüm satış süreçlerinden Sales&Distribution(SatışveDağıtım) modülü sorumludur.
-FI (Financial Accounting):Finans modülü.  Mali Muhasebe tarafında verilerin entegre bir şekilde kaydı ve
+> * FI (Financial Accounting):Finans modülü.  Mali Muhasebe tarafında verilerin entegre bir şekilde kaydı ve
 saklanmasının yanısıra, yönetim kademelerinin finans bilgilerini kullanarak planlama ve kontrol yapmalarına ve
 stratejik kararlar almalarına olanak sağlayan modüldür.
-CO (Controlling):Maliyet muhasebesi modülü. Şirketin karlılık analizlerinin çıkarılarak hangi alanların daha
+> * CO (Controlling):Maliyet muhasebesi modülü. Şirketin karlılık analizlerinin çıkarılarak hangi alanların daha
 karlı hangi alanların ise maliyetli olduğunun tespitini sağlar.
-PS (Project System):Proje sistem, bütçeleme, yürütme, yönetim, maliyet, satış ve satış sonrası, hizmetler de dahil olmak 
+> * PS (Project System):Proje sistem, bütçeleme, yürütme, yönetim, maliyet, satış ve satış sonrası, hizmetler de dahil olmak 
 üzere yönetilen büyük projeleri kapsayan modüldür.
-BC (basis): SAP sisteminin kurulup düzgün çalşıtığından emin olan modüldür.
-HR (Human Resources):İnsan kaynakları modülü.SAP’nin insan kaynakları alanında işyönetimi konusunda kullanılan modülüdür.
-PM (Plant Maintenance):Bakım ve onarım modülü.Tamamlanan yazılım bir süre için yapan şirketin sorumluluğundadır.Gerekli 
+> * BC (basis): SAP sisteminin kurulup düzgün çalşıtığından emin olan modüldür.
+> * HR (Human Resources):İnsan kaynakları modülü.SAP’nin insan kaynakları alanında işyönetimi konusunda kullanılan modülüdür.
+> * PM (Plant Maintenance):Bakım ve onarım modülü.Tamamlanan yazılım bir süre için yapan şirketin sorumluluğundadır.Gerekli 
 sorunlara ait bakım ve onarımla ilgilenirler.
-*(SAP de bunların dışında da pek çok modül var.Ben inceleme fırsatım olanlar hakkında bilgi verdim.)
+(SAP de bunların dışında da pek çok modül var.Ben inceleme fırsatım olanlar hakkında bilgi verdim.)
 
 Çalışma prensibi olarakda SAP her ülkede bir şubesi var aslında distrübitör demek daha mantıklı olabilir.Ve her ülkedeki 
 SAP'a bağlı partnerlar var.Yani bir Türkiye SAP var birde ona bağlı SAP işini yapan şirketler.
 
-Peki ya ABAP ?
+### Peki ya ABAP ?
 İşin özelleşmesi kısmında ise devreye ABAP dediğimiz SAP nin programlama dili devreye giriyor.Yani SAP de müşterinin 
 isteklerini karşılamak için yetersiz kalınan yerlerde SAP kendini geliştirme yöntemini bu dil ile sağlamış.ABAP programcıları 
 gerekli düzenlemeyi arka planda gerçekleştiriyor.
@@ -74,7 +74,7 @@ Bana göre ABAP’ın  önemli özelliklerinden biri çevirilebilen bir metin ya
 program satırlarınızı yazarken veri tabanına erişim mümkün  yani connection-stringsiz bir yapı :) SAP sisteminin kendi 
 içerisinde var olan veri tabanı tabloları var.Elbette bununla da sınırlı kalmıyor yani sadece kendi veri tabanını 
 desteklemekle kalmıyor oracle,mssql gibi  veri tabanlarınıda destekliyor.Yani her şekilde şirketinize uyum sağlıyor.
-Bir diğer özelliği her geçen gün gelişen yapısının eski kodlara zarar vermemesi.Buda bize nesneye dayalı bir programlama(OOP) 
+Bir diğer özelliği her geçen gün gelişen yapısının eski kodlara zarar vermemesi.Buda bize nesneye dayalı bir programlama(OOP)
 yapısına sahip olduğunu gösteriyor.
 
 ABAP ile programlamaya başlayacak birinin SAP nin temel işleyişi hakkında bilgi sahibi olması gerekli.Ancak bu işleyişi 
@@ -91,7 +91,7 @@ Yani veritabanı üzerine yerleştirilmiş uygulamalar bu katmanda çalışır d
 -Presentation Layer: Kullanıcı tarafından verilerin girildiği,veriler üzerinde işlem yapılabildiği katman bu katmandır.
 SAP GUI(graphical user ınterface) kullanıcı arayüzümüzdür.En basit hali ile aşağıdaki şekilde karşımıza çıkar.
 
-ABAP GELİŞTİRME ORTAMI:
+### ABAP GELİŞTİRME ORTAMI:
 Geliştirmeleri yaptığımız ortam ABAP Workbench.Bu çalışma ortamını tam anlamıyla kullanmak için SAP sistemine erişiminizin 
 olması gerekmektedir.Yani gerçek uygulamalar için bir SAP danışmanlık şirketinin üyesi olmanız gerek.Ancak bu erişime sahip 
 değilseniz ve ABAP programlama dilini öğrenmek istiyorsanız
@@ -145,7 +145,7 @@ kullanıyoruz.ABAP da her satırın bitimine ‘.’(nokta)  koyuyoruz.-Bu sytax
 eklemekde mümkün.Bunun içinde tırnak işaretini ‘  “  ‘ kullanıyoruz.Ayrıca ABAP da büyük/küçük harf duyarlılığı yoktur.
 7-Active edip run dediğimizde metnimiz program sonucu olarak gösterilmiş olacaktır.
 
-ABAP’DA VERİ TİPLERİ ve DEĞİŞKEN TANIMLAMA
+### ABAP’DA VERİ TİPLERİ ve DEĞİŞKEN TANIMLAMA
 SYNTAX KURALLARI:
 Türkçe karşılık olarak söz dizimi diye adlandırabileceğimiz syntax yapısı her programlama diline özgü o dilin doğru yazım
 kurallarını içerir.ABAP ında belli bir takım sytax kuralları var.
@@ -171,7 +171,7 @@ ve varsa örnekler görüntülenebilir.
 Not:kodlama yaparken kodun düzgün görünmesi benim için çok önemli :) eğer sizde aynı durumdaysanız arada sırada 
 “pretty printer” tuşunu kullanabilirisiniz.(Yada menüden : Yardımcı programlar->ayarlar->abap editör->pretty printer ile.)
 
-VERİ TİPLERİ:
+### VERİ TİPLERİ:
 ABAP dilinde işlem yapmak için veri objelerini kullanılırz(diğer dillerdeki gibi).Bir veri objesi tanımlanırken 
 “DATA” ile başlar “TYPE ” ile tamamlarız.
 ABAP da kullanılan temel veri tipleri önceden tanımlanmış veri tipleridir.Doğrudan bu tipleri kullanabileceğimiz gibi,
@@ -205,7 +205,7 @@ ABAP cılar tarafından kullanılır.Global veri türleri ABAP DDIC (veri sözl�
 havuzu(type-pool ) oluşturmaktır.Bu kısma structure oluşturma konusunda adım adım değineceğiz.Lokal olanlarsa sadece
 geçerli program içindedir ve diğerleri tarafından referans olarak kullanılamazlar.
 
-DEĞİŞKEN TANIMLAMA
+### DEĞİŞKEN TANIMLAMA
 Veri tiplerini anladığımıza göre bir değişkenin nasıl tam olarak tanımlanabileceğini öğrenebiliriz.Veri objesi(yani değişken)
 oluşturma DATA ile başlar TYPE ile devam eder demiştik.Değişken tanımlamanın tam syntax ı aşağıdaki gibidir:
 
@@ -228,8 +228,8 @@ bu şekilde gösterilmelidir.
 Böylelikle syntax kullanımını,veri tiplerini ve nasıl değişken/sabit tanımlanacağını öğrenmiş olduk.Dışarıdan parametre 
 almayı da öğrendikten sonra basit uygulamalar yapmaya başlayabileceğiz.
 
-ABAP ‘da ALV(ABAP LİST VIEWER) TÜRLERİ
-ALV nedir?
+# ABAP ‘da ALV(ABAP LİST VIEWER) TÜRLERİ
+### ALV nedir?
 ABAP LİST VİEWER ,SAP içinde mevcut olan sabit tabloların veya programcı tarafından olusturulan internal tabloların ekranda
 görüntülenebilmesini ve istenildiği taktirde bu görüntülenen alanlara eventler verebilmemizi sağlayan yapıdır.Yani verileri
 bir tablo gibi göstermek için üretilmiş bir kontroldür.Tablolar ekranın tamamını kapsayabileceği gibi ;ekranın sadece bir 
