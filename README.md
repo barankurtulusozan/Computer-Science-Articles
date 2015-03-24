@@ -1,6 +1,6 @@
 # Nedir
 --------------------------------
-### Faydalı Bilgi, Eğitim ve Açıklamalar
+### Merak, Faydalı Bilgi ve Açıklamalar
 --------------------------------
 ### Index
 > * [SAP-ABAP](https://github.com/barankurtulusozan/Nedir/blob/master/SAP%20-%20ABAP%20Nedir.md)
@@ -10,3 +10,4 @@
 ### Ayrıca Helal Olsun 
 > * [GNU C Library, Elmer Landaverde](http://elmerland.com/gnu_manual.html)
 > * [Java is Pass-by-Value Dammit, Scott Stanchfield](http://javadude.com/articles/passbyvalue.htm)
+> * [How To Become An Elite Demo Coder](http://blog.kebby.org/?p=47) 
