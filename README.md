@@ -11,3 +11,7 @@
 > * [GNU C Library, Elmer Landaverde](http://elmerland.com/gnu_manual.html)
 > * [Java is Pass-by-Value Dammit, Scott Stanchfield](http://javadude.com/articles/passbyvalue.htm)
 > * [How To Become An Elite Demo Coder](http://blog.kebby.org/?p=47) 
+> * [A Survival Guide for the Small Mail Server] (http://www.spamhaus.org/news/article/719/a-survival-guide-for-the-small-mail-server)
+> * [Swarming Raspberry Pi](http://matthewkwilliams.com/index.php/2015/03/21/swarming-raspberry-pi-part-1/)
+> * [Fuzzy Searching on PostgreSQL](http://bartlettpublishing.com/site/bartpub/blog/3/entry/350)
+> * [Full Stack JS /w Mean and Yeoman](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)
