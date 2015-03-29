@@ -9,6 +9,7 @@
 
 ### Helal Olsun 
 > * [GNU C Library, Elmer Landaverde](http://elmerland.com/gnu_manual.html)
+> * [How Git Really Works](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 > * [Solving the Traveling Salesman Problem Using Google Maps and Genetic Algorithms](http://www.theprojectspot.com/tutorial-post/solving-traveling-salesman-problem-using-google-maps-and-genetic-algorithms/9)
 > * [Java is Pass-by-Value Dammit, Scott Stanchfield](http://javadude.com/articles/passbyvalue.htm)
 > * [How To Become An Elite Demo Coder](http://blog.kebby.org/?p=47) 
