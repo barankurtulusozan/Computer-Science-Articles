@@ -2,10 +2,12 @@
 --------------------------------
 ### Merak, Faydalı Bilgi ve Açıklamalar
 --------------------------------
-### Index
+### Kendi Makalelerim
+> * Vakit Bulacağım Bir Gün Elbet
+
+### Nedir?
 > * [SAP-ABAP](https://github.com/barankurtulusozan/Nedir/blob/master/SAP%20-%20ABAP%20Nedir.md)
 > * [SDN Software Defined Network](https://github.com/barankurtulusozan/Nedir/blob/master/SDN_Software_Defined_Network.md)
-> * 
 
 ### Helal Olsun 
 > * [A Sysadmin's Unixersal Translator, One Translator to Rule Them All!](http://bhami.com/rosetta.html)
@@ -19,3 +21,7 @@
 > * [Fuzzy Searching on PostgreSQL](http://bartlettpublishing.com/site/bartpub/blog/3/entry/350)
 > * [Full Stack JS /w Mean and Yeoman](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)
 > * [What is WTFPL License](http://en.wikipedia.org/wiki/WTFPL)
+
+### Ekstra
+> * [I Installed Ubuntu, Then What?  Useful Tool Guide For Ubuntu Users] (http://www.unixmen.com/top-things-installing-ubuntu-14-1014-0413-1013-0412-1012-04/)
+
