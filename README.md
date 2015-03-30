@@ -18,3 +18,4 @@
 > * [Swarming Raspberry Pi](http://matthewkwilliams.com/index.php/2015/03/21/swarming-raspberry-pi-part-1/)
 > * [Fuzzy Searching on PostgreSQL](http://bartlettpublishing.com/site/bartpub/blog/3/entry/350)
 > * [Full Stack JS /w Mean and Yeoman](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)
+> * [What is WTFPL License](http://en.wikipedia.org/wiki/WTFPL)
