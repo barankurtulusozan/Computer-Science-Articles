@@ -21,6 +21,7 @@
 > * [Fuzzy Searching on PostgreSQL](http://bartlettpublishing.com/site/bartpub/blog/3/entry/350)
 > * [Full Stack JS /w Mean and Yeoman](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)
 > * [What is WTFPL License](http://en.wikipedia.org/wiki/WTFPL)
+> * [Unikernels: Rise of the Virtual Library Operating System](http://queue.acm.org/detail.cfm?id=2566628)
 
 ### Ekstra
 > * [I Installed Ubuntu, Then What?  Useful Tool Guide For Ubuntu Users] (http://www.unixmen.com/top-things-installing-ubuntu-14-1014-0413-1013-0412-1012-04/)
