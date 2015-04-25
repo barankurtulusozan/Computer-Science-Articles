@@ -9,7 +9,7 @@
 > * [SAP-ABAP](https://github.com/barankurtulusozan/Nedir/blob/master/SAP%20-%20ABAP%20Nedir.md)
 > * [SDN Software Defined Network](https://github.com/barankurtulusozan/Nedir/blob/master/SDN_Software_Defined_Network.md)
 
-### Helal Olsun 
+### Faydalı Makaleler 
 > * [A Sysadmin's Unixersal Translator, One Translator to Rule Them All!](http://bhami.com/rosetta.html)
 > * [GNU C Library, Elmer Landaverde](http://elmerland.com/gnu_manual.html)
 > * [How Git Really Works, From The Inside](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
@@ -23,6 +23,7 @@
 > * [What is WTFPL License](http://en.wikipedia.org/wiki/WTFPL)
 > * [Unikernels: Rise of the Virtual Library Operating System](http://queue.acm.org/detail.cfm?id=2566628)
 > * [Mapreduce Fun Sampling For Large Data Sets](http://engineering.bloomreach.com/mapreduce-fun-sampling-for-large-data-set/)
+> * [Coding for SSD's](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
 
 ### Ekstra
 > * [I Installed Ubuntu, Then What?  Useful Tool Guide For Ubuntu Users] (http://www.unixmen.com/top-things-installing-ubuntu-14-1014-0413-1013-0412-1012-04/)
