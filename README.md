@@ -24,6 +24,8 @@
 > * [Unikernels: Rise of the Virtual Library Operating System](http://queue.acm.org/detail.cfm?id=2566628)
 > * [Mapreduce Fun Sampling For Large Data Sets](http://engineering.bloomreach.com/mapreduce-fun-sampling-for-large-data-set/)
 > * [Coding for SSD's](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
+> * [A Tiny Intro To Database Systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
+
 
 ### Ekstra
 > * [I Installed Ubuntu, Then What?  Useful Tool Guide For Ubuntu Users] (http://www.unixmen.com/top-things-installing-ubuntu-14-1014-0413-1013-0412-1012-04/)
