@@ -3,7 +3,7 @@
 ### Merak, Faydalı Bilgi ve Açıklamalar
 --------------------------------
 ### Kendi Makalelerim
-> * Vakit Bulacağım Bir Gün Elbet
+> * 
 
 ### Nedir?
 > * [SAP-ABAP](https://github.com/barankurtulusozan/Nedir/blob/master/SAP%20-%20ABAP%20Nedir.md)
@@ -27,6 +27,7 @@
 > * [A Tiny Intro To Database Systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
 > * [How to Generate Millions of HTTP Requests](http://dak1n1.com/blog/14-http-load-generate)
 
+
 ### Ekstra
 > * [I Installed Ubuntu, Then What?  Useful Tool Guide For Ubuntu Users] (http://www.unixmen.com/top-things-installing-ubuntu-14-1014-0413-1013-0412-1012-04/)
-
+> * [Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer](http://en.wikipedia.org/wiki/Shor%27s_algorithm)
