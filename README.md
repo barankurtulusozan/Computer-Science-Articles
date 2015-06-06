@@ -31,3 +31,4 @@
 ### Ekstra
 > * [I Installed Ubuntu, Then What?  Useful Tool Guide For Ubuntu Users] (http://www.unixmen.com/top-things-installing-ubuntu-14-1014-0413-1013-0412-1012-04/)
 > * [Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer](http://en.wikipedia.org/wiki/Shor%27s_algorithm)
+> * [Http/2 is here, Lets optimize it](https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present?slide=id.p19)
