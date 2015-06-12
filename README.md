@@ -1,12 +1,8 @@
-# Nedir
 --------------------------------
-### Merak, Faydalı Bilgi ve Açıklamalar
+### Faydalı Makaleler
 --------------------------------
-### Kendi Makalelerim
-> * 
 
 ### Nedir?
-> * [SAP-ABAP](https://github.com/barankurtulusozan/Nedir/blob/master/SAP%20-%20ABAP%20Nedir.md)
 > * [SDN Software Defined Network](https://github.com/barankurtulusozan/Nedir/blob/master/SDN_Software_Defined_Network.md)
 
 ### Faydalı Makaleler 
