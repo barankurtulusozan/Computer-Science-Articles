@@ -2,10 +2,6 @@
 ### Faydalı Makaleler
 --------------------------------
 
-### Nedir?
-> * [SDN Software Defined Network](https://github.com/barankurtulusozan/Nedir/blob/master/SDN_Software_Defined_Network.md)
-
-### Faydalı Makaleler 
 > * [A Sysadmin's Unixersal Translator, One Translator to Rule Them All!](http://bhami.com/rosetta.html)
 > * [GNU C Library, Elmer Landaverde](http://elmerland.com/gnu_manual.html)
 > * [How Git Really Works, From The Inside](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
