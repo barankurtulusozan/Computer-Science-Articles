@@ -41,5 +41,8 @@
 > * [Solving the Traveling Salesman Problem Using Google Maps and Genetic Algorithms](http://www.theprojectspot.com/tutorial-post/solving-traveling-salesman-problem-using-google-maps-and-genetic-algorithms/9)
 > * [Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer](http://en.wikipedia.org/wiki/Shor%27s_algorithm)
 
+#### Jobs
+> * [Who Is Hiring On World Map](http://whoishiring.it/)
+
 #### Makalelerim
 > * [AngularJS VS ReactJS , || & ?](http://www.batunet.com/angularjs-vs-reactjs-popular-ui-javascript-frameworks/)
