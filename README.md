@@ -24,6 +24,7 @@
 #### Network, Internet and etc.
 > * [A Survival Guide for the Small Mail Server] (http://www.spamhaus.org/news/article/719/a-survival-guide-for-the-small-mail-server)
 > * [How to Generate Millions of HTTP Requests](http://dak1n1.com/blog/14-http-load-generate)
+> * [Handling 1 Million Requests per Minute with Go](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 > * [Http/2 is here, Lets optimize it](https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present?slide=id.p19)
 
 #### Databases 
@@ -40,6 +41,9 @@
 > * [Java is Pass-by-Value Dammit, Scott Stanchfield](http://javadude.com/articles/passbyvalue.htm)
 > * [Solving the Traveling Salesman Problem Using Google Maps and Genetic Algorithms](http://www.theprojectspot.com/tutorial-post/solving-traveling-salesman-problem-using-google-maps-and-genetic-algorithms/9)
 > * [Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer](http://en.wikipedia.org/wiki/Shor%27s_algorithm)
+
+#### Memory Issues
+> * [Overcome the Memory Limit for JS with Large Data Structures](http://chethiya.github.io/lds.html)
 
 #### Jobs
 > * [Who Is Hiring On World Map](http://whoishiring.it/)
