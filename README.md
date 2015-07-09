@@ -16,6 +16,7 @@
 #### Being a Better Programmer
 > * [How To Become An Elite Demo Coder](http://blog.kebby.org/?p=47) 
 > * [Why Good Programmers Are Lazy and Dumb](http://blogoscoped.com/archive/2005-08-24-n14.html)
+> * [Top 100 Computer Programming Books](http://www.catonmat.net/blog/top-100-books-part-one/)
 
 #### Tools Gadgets and Stuff
 > * [How Git Really Works, From The Inside](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
