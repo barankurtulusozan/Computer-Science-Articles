@@ -38,6 +38,7 @@
 #### Software Bundles, Ide's Environments etc.
 > * [Full Stack JS /w Mean and Yeoman](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)
 > * [What's new in ES6](http://justicen.com/#/posts/74046fea9a4c61477db9)
+
 #### Algorithms Data Structures and Syntax
 > * [Java is Pass-by-Value Dammit, Scott Stanchfield](http://javadude.com/articles/passbyvalue.htm)
 > * [Solving the Traveling Salesman Problem Using Google Maps and Genetic Algorithms](http://www.theprojectspot.com/tutorial-post/solving-traveling-salesman-problem-using-google-maps-and-genetic-algorithms/9)
