@@ -5,6 +5,9 @@
 #### Data Mining
 > * [Mapreduce Fun Sampling For Large Data Sets](http://engineering.bloomreach.com/mapreduce-fun-sampling-for-large-data-set/)
 
+### AngularJS
+> * [Sort and Filter a Table Using Angular](https://scotch.io/tutorials/sort-and-filter-a-table-using-angular)
+
 #### System Programming
 > * [A Sysadmin's Unixersal Translator, One Translator to Rule Them All!](http://bhami.com/rosetta.html)
 > * [GNU C Library, Elmer Landaverde](http://elmerland.com/gnu_manual.html)
