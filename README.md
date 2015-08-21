@@ -53,5 +53,7 @@
 #### Jobs
 > * [Who Is Hiring On World Map](http://whoishiring.it/)
 
+#### Interesting
+[Why there is a caret in my json package](http://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/)
 #### Makalelerim
 > * [AngularJS VS ReactJS , || & ?](http://www.batunet.com/angularjs-vs-reactjs-popular-ui-javascript-frameworks/)
