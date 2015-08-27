@@ -53,6 +53,9 @@
 #### Jobs
 > * [Who Is Hiring On World Map](http://whoishiring.it/)
 
+#### Cloud Computing
+> * [Cloud Computing and Automation] (http://goldberg.berkeley.edu/cloud-robotics/)
+
 #### Interesting
 [Why there is a caret in my json package](http://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/)
 #### Makalelerim
