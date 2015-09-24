@@ -8,6 +8,9 @@
 ### AngularJS
 > * [Sort and Filter a Table Using Angular](https://scotch.io/tutorials/sort-and-filter-a-table-using-angular)
 
+### ReactJS
+> * [ReactJs for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
+
 #### System Programming
 > * [A Sysadmin's Unixersal Translator, One Translator to Rule Them All!](http://bhami.com/rosetta.html)
 > * [GNU C Library, Elmer Landaverde](http://elmerland.com/gnu_manual.html)
