@@ -5,6 +5,9 @@
 #### Data Mining
 > * [Mapreduce Fun Sampling For Large Data Sets](http://engineering.bloomreach.com/mapreduce-fun-sampling-for-large-data-set/)
 
+#### Data Science
+> * [50 Data Science Articles || Resources](http://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A327226)
+
 ### AngularJS
 > * [Sort and Filter a Table Using Angular](https://scotch.io/tutorials/sort-and-filter-a-table-using-angular)
 
