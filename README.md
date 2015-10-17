@@ -13,6 +13,7 @@
 
 ### ReactJS
 > * [ReactJs for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
+> * [Is React+Flux Leading us to Overengineering?](http://swizec.com/blog/reactflux-can-do-in-just-137-lines-what-jquery-can-do-in-10/swizec/6740)
 
 #### System Programming
 > * [A Sysadmin's Unixersal Translator, One Translator to Rule Them All!](http://bhami.com/rosetta.html)
