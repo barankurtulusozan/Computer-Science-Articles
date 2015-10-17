@@ -8,10 +8,9 @@
 #### Data Science
 > * [50 Data Science Articles || Resources](http://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A327226)
 
-### AngularJS
+#### Frontend
+> * [Frontend Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/what-is-a-FD.html)
 > * [Sort and Filter a Table Using Angular](https://scotch.io/tutorials/sort-and-filter-a-table-using-angular)
-
-### ReactJS
 > * [ReactJs for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 > * [Is React+Flux Leading us to Overengineering?](http://swizec.com/blog/reactflux-can-do-in-just-137-lines-what-jquery-can-do-in-10/swizec/6740)
 
