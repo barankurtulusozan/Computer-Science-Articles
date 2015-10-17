@@ -14,6 +14,7 @@
 > * [ReactJs for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 > * [Is React+Flux Leading us to Overengineering?](http://swizec.com/blog/reactflux-can-do-in-just-137-lines-what-jquery-can-do-in-10/swizec/6740)
 
+
 #### System Programming
 > * [A Sysadmin's Unixersal Translator, One Translator to Rule Them All!](http://bhami.com/rosetta.html)
 > * [GNU C Library, Elmer Landaverde](http://elmerland.com/gnu_manual.html)
@@ -26,6 +27,7 @@
 > * [How To Become An Elite Demo Coder](http://blog.kebby.org/?p=47) 
 > * [Why Good Programmers Are Lazy and Dumb](http://blogoscoped.com/archive/2005-08-24-n14.html)
 > * [Top 100 Computer Programming Books](http://www.catonmat.net/blog/top-100-books-part-one/)
+> * [From Python to Go and Back Again](https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1&slide=id.g70b0035b2_1_168)
 
 #### Tools Gadgets and Stuff
 > * [How Git Really Works, From The Inside](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
