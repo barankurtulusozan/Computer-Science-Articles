@@ -2,18 +2,9 @@
 ### Helpful Articles for the Curious or Meraklısına Faydalı Makaleler
 --------------------------------
 
-#### Data Mining
-> * [Mapreduce Fun Sampling For Large Data Sets](http://engineering.bloomreach.com/mapreduce-fun-sampling-for-large-data-set/)
-
 #### Data Science
 > * [50 Data Science Articles || Resources](http://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A327226)
-
-#### Frontend
-> * [Frontend Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/what-is-a-FD.html)
-> * [Sort and Filter a Table Using Angular](https://scotch.io/tutorials/sort-and-filter-a-table-using-angular)
-> * [ReactJs for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
-> * [Is React+Flux Leading us to Overengineering?](http://swizec.com/blog/reactflux-can-do-in-just-137-lines-what-jquery-can-do-in-10/swizec/6740)
-
+> * [Mapreduce Fun Sampling For Large Data Sets](http://engineering.bloomreach.com/mapreduce-fun-sampling-for-large-data-set/)
 
 #### System Programming
 > * [A Sysadmin's Unixersal Translator, One Translator to Rule Them All!](http://bhami.com/rosetta.html)
@@ -63,6 +54,13 @@
 
 #### Cloud Computing
 > * [Cloud Computing and Automation] (http://goldberg.berkeley.edu/cloud-robotics/)
+
+#### Web 
+> * [Frontend Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/what-is-a-FD.html)
+> * [Sort and Filter a Table Using Angular](https://scotch.io/tutorials/sort-and-filter-a-table-using-angular)
+> * [ReactJs for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
+> * [Is React+Flux Leading us to Overengineering?](http://swizec.com/blog/reactflux-can-do-in-just-137-lines-what-jquery-can-do-in-10/swizec/6740)
+> * [Running a Modern Infrastructure](https://blog.barricade.io/running-a-modern-infrastructure-stack/)
 
 #### Interesting
 [Why there is a caret in my json package](http://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/)
