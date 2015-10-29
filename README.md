@@ -1,5 +1,5 @@
 --------------------------------
-### Helpful Articles for the Curious or Meraklısına Faydalı Makaleler
+### Helpful Articles for the Curious Computer Geek
 --------------------------------
 
 #### Data Science
@@ -64,6 +64,9 @@
 > * [ReactJs for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 > * [Is React+Flux Leading us to Overengineering?](http://swizec.com/blog/reactflux-can-do-in-just-137-lines-what-jquery-can-do-in-10/swizec/6740)
 > * [Running a Modern Infrastructure](https://blog.barricade.io/running-a-modern-infrastructure-stack/)
+
+#### Github
+> * [Github Markdown Editor](https://jbt.github.io/markdown-editor/#bVNBbtswELzzFVs4gK3GltpremqTpgkQA0WTnowCoURSoiVxBXIVJyn69y4pQ84hgAnJ5HB2Z3a0gNUPSzdjubnu5BN6rTLYSt8qPDj4riyhF+KbDLaCMWgzdmC0pNFr6GygCyHgI1yS787voYDLXvGTEIJ80kCNBmM7fYI01tAJePzH8KpBDHq+KMOpBfRw87C9ixxXXtYgnQLlcQCZuME6vtVon253KBVYiuDreFihI+0ogOTzSM2nLvX1+9cdBIQXHKGSDkITEZEwCCFulz04hBpRgSQ4eEvW1UzQD0xaRFynPZB+pnVkqTFhuAT2mpqIZWIfdGdyseusa/+sGqLhoijKFnOLmbhDbNesIZr4IZloEOOjlH56vArxlbVGacuQmFmO0h/g4vwz2/74+LiXTzJU3g4kzlZmdBVZdKvsrwA4Wy2VfVpmeUN9t1reguy5GG/ly+yL+MeL7wvx0NgA/NuhgykFU6OBO60tNWOZV9gX+5KK/jiQjU6ZyKLuThNwW63DA1gDt0ueXfnJt9FmSi0fYvs5W/qTRxbiiLY+hyvEMg0ylt9FVTCxzjb1XjEmFR887nVFoYi4Y/UiW4Px2MOhsVUj4kCtC4P1MloQy/AUwjrVSM41/PYCNs6v50BMMB4UMaiSfWxxsVjAPY3GxJyryNHLVieiKeW72QJL79r05vzte8aj9adAD9IHTkhivGRJW+v9G+VRZZ+2cqepmC5HgfKgk5Twwv0/bxpbNx0v4l4nUxLjvJ3vw8wZ0NCBA95LZ2UVcvR12itmdKHdsdRED/NJDDN/MzjSMFJKIJQdVm1I5fZho7TpJOl3HVHStVhLW5xwU5X61Q5DpEYDSpKc7ebcGF5ckb/QIP4D)
 
 #### Interesting
 [Why there is a caret in my json package](http://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/)
