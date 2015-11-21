@@ -32,6 +32,7 @@
 > * [How to Generate Millions of HTTP Requests](http://dak1n1.com/blog/14-http-load-generate)
 > * [Handling 1 Million Requests per Minute with Go](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 > * [Http/2 is here, Lets optimize it](https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present?slide=id.p19)
+> * [How a little bit of TCP knowledge is essential] (http://jvns.ca/blog/2015/11/21/why-you-should-understand-a-little-about-tcp/)
 
 #### Databases 
 > * [Fuzzy Searching on PostgreSQL](http://bartlettpublishing.com/site/bartpub/blog/3/entry/350)
